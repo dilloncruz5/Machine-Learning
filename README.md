@@ -1,2 +1,2 @@
 # Machine-Learning
-Done by Dillon for Sathybam Institute of Science and Technolgy
+Done by Dillon for Sathyabama Institute of Science and Technolgy
